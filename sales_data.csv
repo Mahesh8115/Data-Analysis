@@ -1,0 +1,8 @@
+Product,Region,Month,Sales
+A,North,Jan,1200
+B,South,Jan,950
+A,East,Feb,1100
+C,West,Mar,800
+B,North,Apr,1500
+C,South,May,700
+D,East,Mar,2000
